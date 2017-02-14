@@ -1,4 +1,4 @@
-# iOS No Export Compliance
+# Plist Changes
 
 This plugin sets different properties and values in *-Info.plist file
 
