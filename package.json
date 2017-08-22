@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-ios-plist",
+  "version": "0.0.2",
+  "description": "This plugin sets different properties and values in *-Info.plist file",
+  "main": "plugin.xml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymehtasa/cordova-plugin-ios-plist.git"
+  },
+  "keywords": [
+    "plist",
+    "ionic",
+    "ios",
+    "ios",
+    "plist"
+  ],
+  "author": "Jay Mehta <jaym2503@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymehtasa/cordova-plugin-ios-plist/issues"
+  },
+  "homepage": "https://github.com/jaymehtasa/cordova-plugin-ios-plist#readme"
+}

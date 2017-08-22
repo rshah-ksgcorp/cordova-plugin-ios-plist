@@ -7,8 +7,8 @@ This plugin sets different properties and values in *-Info.plist file
 
 `UIBackgroundModes`
 
-	* `remote-notification`
-	* `audio`
+* `remote-notification`
+* `audio`
 
 ## Installation
 
