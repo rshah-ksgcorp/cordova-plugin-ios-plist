@@ -8,24 +8,16 @@
     </engines>
     <!-- ios -->
     <platform name="ios">
-        <config-file target="*-Info.plist" parent="UIBackgroundModes">
-            <array>
-                <string>remote-notification</string>
-                <string>audio</string>
-                <string>fetch</string>
-            </array>
-        </config-file>
-
         <config-file target="*-Info.plist" parent="ITSAppUsesNonExemptEncryption">
             <false/>
         </config-file>
 
         <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
-            <string>Photo library is being used for profile picture</string>
+            <string>for selecting insurance document & Profile Picture.</string>
         </config-file>
 
         <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-            <string>Camera is being used to capture profile picture</string>
+            <string>for capturing insurance document & Profile Picture.</string>
         </config-file>
     </platform>
 </plugin>
